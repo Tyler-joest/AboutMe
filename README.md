@@ -40,4 +40,12 @@ My boss told me to put __Something__ here so...
 [Darth Vader][1]<br>
 [Abe][2]<br>
 [Duck][3]<br>
-![The Duck] (https://github.com/Tyler-joest/AboutMe/blob/main/quack.png)
+<kbd>
+<img src="https://github.com/Tyler-joest/AboutMe/blob/main/quack.png" height="200px" width="200px"></kbd>
+
+## CS Terms
+
+| Terms | def |
+|:-|:----:|
+| abstraction | simplifying a part of code so you can work on it |
+| algorithm | a list of steps or actions to due a process or an action |
