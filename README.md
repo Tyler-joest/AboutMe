@@ -20,19 +20,4 @@ My hobbies include
 
 ## My Motto
 
-*Being sleep deprived never hurt anybody*
-
-## Favorite Quote
-
-My boss told me to put __Something__ here so... 
-
-## My Favorite Website
-
-[The Site](http://www.didthanoskill.me/)
-
-## Persons of Interest
-
-[Darth Vader][1]<br>
-[Duck][2]<br>
-<kbd>
-<img src="https://github.com/Tyler-joest/AboutMe/blob/main/quack.png" height="200px" width="200px"></kbd>
+*Either you run the day or the day runs you.*
